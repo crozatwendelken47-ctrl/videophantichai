@@ -6,6 +6,7 @@ import { Experience } from "@/components/Experience";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
 
+// Creative Portfolio Landing Page
 export default function Home() {
   return (
     <main className="min-h-screen">
