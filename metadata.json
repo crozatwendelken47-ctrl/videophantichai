@@ -1,0 +1,5 @@
+{
+  "name": "Rescue Animal Script Generator",
+  "description": "Analyze animal rescue videos and generate detailed voiceover scripts every 6 seconds, supporting SRT export.",
+  "requestFramePermissions": []
+}
